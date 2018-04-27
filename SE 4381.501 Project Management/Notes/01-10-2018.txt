@@ -1,0 +1,77 @@
+01-10-2018
+Modern Software Management
+
+	Standish Groups 
+		Credit Improvement to
+			Better project management
+			emerging Web Infrastructure
+			Iterative developement
+			
+	Problems leading to Software
+		Estimating schedule
+		Changes to requirements
+		Going over budget
+		Lack of senior management commitment
+		Inappropriate management skills
+		
+	The Iron Triangle
+		Constraints
+			Scope
+			Cost
+			Time
+			Staff 
+			Quality
+			
+	Basic Questions
+		Should this proj be initiated?
+		Should it continue?
+		Who is on the team?
+		Do we have high performing teams?
+		What life cycle model will we use?
+		What is our decision making process?
+		How is our team/proj structured?
+		How are we managing risks?
+		Do we have good communications? management customer staff
+		
+	Decision Making
+		Hierarchal
+			Leader chooses
+			
+			Pros
+			
+			Cons
+			
+		Consensus
+			Support, Disagree, Abstain
+			
+			Pros
+			Everyone gets a voice
+			Cons
+			Presuasion don't always work
+			
+		Majority vote 
+			Group decides, leader breaks ties
+			
+	Business Drivers - Defining value
+	
+		Operational Excellence
+			Custom software developement
+			Reliable products at competitive prices delivered with minimal inconvenience
+			
+		Product Leadership
+			Commercial Software Developement
+			Leading edge products that enhance the customers utlity
+			
+			Remember, innovation and creativity are not the same thing
+			Innovation	- taking an existing idea and making a commercially avaiable product
+			
+		Customer intimacy
+			Targeting market niches precisely
+			Soft skills on the phone
+			Bluebeam
+			
+	4 dimensions of success
+		Project efficiency
+		impact of customer
+		business and direct success
+		Preparing for future

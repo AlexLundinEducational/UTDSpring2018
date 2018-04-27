@@ -1,0 +1,5 @@
+##Alex Lundin
+##AML140830@utdallas.edu
+##SE 3377.501 - CC++ in  UNIX
+## sum up first and fourth columns of text file
+awk '{column1Total += $1}{column4Total += $4} END{print column1Total column4Total}' numbers.txt

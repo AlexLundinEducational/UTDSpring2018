@@ -1,0 +1,24 @@
+{cslinux1:~} ^C
+{cslinux1:~} ^C
+{cslinux1:~} la
+.	       .defaults   .history	   .path	.setx
+..	       .elmrc	   Homework	   perl5	.sunview
+2	       .emacs	   include	   .plan	tars
+.bash_history  .emacs.d    .login	   .profile	.tcshrc
+.bash_profile  Exam1	   .login.sunview  Program	.twmrc
+.bashrc        .exrc	   .logout	   Program2	.viminfo
+.cache	       FALL 2015   Mail		   .project	.Xdefaults
+.config        .forward    .mailrc	   public_html	.Xdefaults.maker
+cpp_workspace  .fvwm2rc    netbeans	   .rootmenu	.xserverrc
+.cshrc	       .gitconfig  .newsrc	   .setow	.xsession
+{cslinux1:~} pwd
+/home/013/a/am/aml140830
+{cslinux1:~} cd ~/Programd2[K[K2
+{cslinux1:~/Program2} la
+.	     dowork.cc~  main.cc~	   program2.cc~  screenlog.0
+..	     dowork.o	 parsecmdline.cc   program2.h	 w
+compile.sh   hw2	 parsecmdline.cc~  program2.h~	 #w#
+compile.sh~  include	 parsecmdline.o    program2.o	 w~
+dowork.cc    main.cc	 program2.cc	   run.sh
+{cslinux1:~/Program2} exit
+{cslinux1:~} exit

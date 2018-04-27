@@ -1,0 +1,51 @@
+1-8-2018
+
+Admin
+
+What teacher thinks we need to know
+
+	Importance of talking to customer
+	
+	Why the choice of life cycle is important
+	
+	People factors in team building
+	
+	How to esitmate (well)
+	
+	How to measure software (correctly)
+	
+	How to track progress via EVM or burndown charts
+		Earn Value Management
+	
+	Understand requirements volatility, estimating uncertainty,
+	tracking implications
+	
+	Software process improvment (CMMI)
+	
+Modern Software Management
+	Software Crisis
+		Late, over budget, less functionality
+		
+		
+	CHAOS Factors of Success
+		User Involvement
+		
+		Execuative Support
+		
+		Clear Business Objectives
+		
+		Emotional Maturity
+		
+		Optimizing Scope
+		
+		Agile Process
+		
+		Project Management Expertise
+		
+		Skilled resources
+		
+		Execution
+		
+		Tools & Infrastructure
+		
+	

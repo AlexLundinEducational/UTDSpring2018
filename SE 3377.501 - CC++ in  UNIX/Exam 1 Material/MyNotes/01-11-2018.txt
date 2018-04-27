@@ -1,0 +1,88 @@
+01-11-2018
+
+	
+	Review
+	
+	In Class
+		Unix Linux Philosophy
+		Many small commands
+		Written to be simple and chained
+		The chained commands can produce new behaviors when combined
+
+
+		What is Unix
+			Family of Computer OS
+			Multitasking			- concurent tasks, not paralles
+			multiuser				- many users can log into Software
+			
+			Derived from AT&T original by Ken Thompson
+		ISO 	- international Standard Organization
+
+		Key Components
+			Kernel
+				Guts
+				Piece that interacs with the hardware
+				Defines a barrier between User Space and Hardware
+			
+			Shell
+				Ineractive program,
+				Multitask ststem,
+				Place for typing in commands
+				BASH - born again sheell
+				
+			Files System
+				Hierarchal directory ststem
+		Material
+		UNIX
+			Family of Operating Systems that:
+				Multitask
+				Support multiuser
+				Derive from AT&T UNIX
+				Ken Thompson, Dennis Ritchie
+				
+		Components
+			Kernel
+				Master control porgram of OS
+				Handles 
+					Memory management
+					System calls
+					Provides drivers for hardware
+			Shell
+				Interactive program that provides interfaces between user and kernel
+				Interprets commands from user or shell script
+				
+			File System
+				Hierarchical or inverted tree directory
+				Root at top
+				
+		Philosophy
+			Power of system
+				Stems from relationships amoung programs
+				Many UNIX programs do quite trivial things
+				Combining them becomes extremly useful
+			
+		Linux
+			OS designed LIKE Unix's kernel
+			Example, GNU
+				Recursive acronym for GNU is Not Unix
+				
+		Shell Examples
+			Sh
+			bash
+			csh
+			tsch
+			ksh
+			zsh
+			
+		Shell scripts
+			Similar to windows batch commands
+			
+		Accessing
+			Terminal prompt - Xterm
+			Connect remotely SSH
+			Either choice can be specified by your preferences for what launches on log in
+			
+		Manual Pages
+			man <command name>
+			Gives:
+			Examples, defaults, exit codes, environment variable info, files, "SEE ALSO"

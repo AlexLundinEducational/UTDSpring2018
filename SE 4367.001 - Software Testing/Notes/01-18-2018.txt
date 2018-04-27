@@ -1,0 +1,28 @@
+01-18-2018
+
+Header
+	Traditional Definitions of Quality
+		- Conformance to requirements (definition for class)
+		- Defined to customer
+		- Fitness for use
+		
+		9 dimensions
+			performance
+			features
+			functionality
+			safety
+			conformance
+			reliablity
+			durability
+			service
+			aesthetics
+	
+
+	Quality Attributes
+		Avaiability
+		Interoperability
+		Modifiability
+		Performance
+		Security
+		Testability
+		Useability

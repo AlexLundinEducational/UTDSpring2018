@@ -1,0 +1,23 @@
+
+Inspections
+	Rules
+		Optimum # of inspectors
+			4
+		Review rate
+			140 lines of text per hour
+	
+	Roles
+		Moderator
+		Reader
+		Scribe
+		Producer
+		
+	Properties
+		Use of "how to find errors" checklist
+		
+		Follow up to reduce bad fixes
+		
+		Learning value (proposal for Steve)
+		
+		
+	

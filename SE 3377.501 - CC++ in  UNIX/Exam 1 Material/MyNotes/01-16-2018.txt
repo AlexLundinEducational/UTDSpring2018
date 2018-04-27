@@ -1,0 +1,38 @@
+01-16-2018
+
+	
+	Review
+
+		1.1 Verify on your system that the directories dot and dot-dot are not the same, except in the
+		root directory.
+		When a directory is created, to filenames are automatically created:
+		. current directory
+		.. parent directory		
+		
+		Use ls command on both options to see the print results are different
+		
+		
+		1.2 In the output from the program in Figure 1.6, what happened to the processes with process
+		IDs 852 and 853?
+		
+		
+		1.3 In Section 1.7, the argument to perror is defined with the ISO C attribute const, whereas
+		the integer argument to strerror isn’t defined with this attribute. Why?
+		
+		
+		1.4 If the calendar time is stored as a signed 32-bit integer, in which year will it overflow? How
+		can we extend the overflow point? Are these strategies compatible with existing
+		applications?
+		
+		
+		1.5 If the process time is stored as a signed 32-bit integer, and if		
+		
+		
+		
+		Have a basic handle on command line (shells)
+		Be able to create and view files (editors)
+		Be able to read program output and errors (I/O)
+		Compile and run your programs (compiling)
+		Efficiently perform repetitive operations (scripts)
+	
+	Material

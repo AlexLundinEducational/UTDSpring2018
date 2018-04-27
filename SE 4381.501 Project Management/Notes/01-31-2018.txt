@@ -1,0 +1,19 @@
+01-31-2018
+
+Discussion
+	PMBOK (26)
+	
+	SCRUM
+	Agile
+		Responds to rapidly changeing requirements
+		Iterative developement
+			No more than 6 weeks
+		Implies empowerment (not required)
+
+	Manifesto
+		Individuals and interactions
+		Working Software
+		Customer collaboration
+		Responding to change
+		
+TeamWork

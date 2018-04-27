@@ -1,0 +1,51 @@
+01-30-2018
+A03 Homework Review
+	Control Flow Graph
+		While
+			If 
+			Else
+			One edge to return to while test
+			
+	Decision counting for structured program
+	V(G) = # of decisions + 1
+Quiz Review
+	1.) Quality can be defined as meeting perf
+	2.) 
+	3.) Correctness, establishs no errors in program
+	4.) Testing shows pres of bugs
+	5.) Block box
+	6.) White box 
+	7.) Decision covered by all branches
+	8.) Test set collection of test cases
+	9.) Acceptance testing
+	10.) Regression testing
+	11.) Best testers not developers, conflict of interest
+	
+Next homework
+		Draw line through do while
+		Look at the entry and exit points
+		
+Discussion (05math page 14 - )
+	Precedence
+	
+	
+	Control Flow Graph
+		Remove sytactial markers
+			Curly braces
+			else, then
+			End
+			
+		Basic block
+			Collection of code statements that have:
+			1.) Single entry
+			2.) Single exit
+			Start at statement
+			End at conditional branch
+			
+			
+		Conditional branches
+			Show T and F
+			Use predicate and !(predicate) for Data Flow graph
+				(x == 5) and !(x == 5)
+				
+		

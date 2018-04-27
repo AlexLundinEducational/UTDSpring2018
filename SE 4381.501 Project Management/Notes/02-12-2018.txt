@@ -1,0 +1,63 @@
+02-12-2018
+
+Discussion
+Defining the project
+Work Breakdown Structure (1 - )
+	Intro
+		Plan scope management
+		Collect requirements
+		Define scope
+		Create WBS
+		Validate Scope
+			You validate the scope with the customer
+		Control Scope
+		
+	Project Scope
+		Defintion of the end result or mission of project
+		Primary purpose 
+			define deliverables
+		Project Charter / Statement of Work
+			Document that Holds the scope
+		Priority Matrix
+			Defined before project starts
+			Value assigned to each piece of functionality
+			Gives ability to cut items
+			
+	Work Breakdown Structure
+		User story
+		Start with a collection of activities
+			Process or product oriented, both are acceptable
+		Organize into short managable tasks
+			8 - 80 hours
+			Easy to see progress in these increments
+			Called work packages
+			This is a assignable unit of work
+			Should minimize dependencies between packages
+		Used to assgined responsibility for tasks
+		Each items needs a time and a cost estimate
+		Work Packages aka tasks
+			not too big not too small to be tracked
+			Binary progress, done or not done
+			
+	Rolling Time Horizon
+		Enables us to avoid planning things that are not in our control
+		It is ineffective to plan in detail for future
+		Plan in detail 2-3 months out
+		Plan a medium level of detail 4-6 months out
+		Plan roughly for the long term
+		Withing 50% of estimation is normal
+		Within 30% of estimation is good
+		
+	Organization Breakdown Structure
+	
+
+	Responsibility Matrix
+		
+		
+	Project Communication Plan
+		Used when communicating with customers
+		Template in slides
+	Project Stakeholder Management
+	
+
+TeamWork

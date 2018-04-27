@@ -1,0 +1,23 @@
+01-22-2018
+Discussion:
+	Are we still in a software crisis?
+		Yes
+			projects don't get completed 
+			debugging costs more than original developement
+			functionality doesn't match what end users needs
+			high maintence cost
+		No
+			We have the Agile methodology in place
+		Yes, but we still don't apply the agreed upon solutions
+		
+		
+Lecture:
+
+Modern Software Management
+	
+	Software Lifecycle
+	
+		Critical Chain pg 27
+			
+		
+	

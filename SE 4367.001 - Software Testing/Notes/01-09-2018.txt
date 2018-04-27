@@ -1,0 +1,18 @@
+01-09-2018
+
+Main focus is learning outcomes
+
+	1.) Goals and different types of testing
+
+	2.) Functional
+
+	3.) Structural
+
+	4.) GUI Testing
+
+	5.) Security Related Testing
+
+	6.) Software Testing Tools
+	
+
+

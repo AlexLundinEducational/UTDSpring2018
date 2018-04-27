@@ -1,0 +1,61 @@
+01-24-2018
+Discussion
+	*hint hint*
+	Know definitions on page 6
+	Portfolio
+	
+	Program
+		Bunch of related 
+			projects, subprograms, and program activies
+			adds benefits not available from using them individually
+		Billions of dollars
+		
+		
+	Life Cycle
+		Predictive(plan-driven)
+			product and deliverables define
+			scope carefully managed
+			
+		Adaptive(change-driven)
+			product developed over multiple iterations
+			detailed scope defined for each iteration, only as the iteration begins
+			
+	Generic Life Cycle
+		Start
+			project charter
+		Organize
+			project management plan
+		Carry out work
+			accepted deliverablel
+		Close the project
+			archived project documents
+			
+	Uncertainty vs Cost of Change
+		Risks and Uncertainty
+			Greatest at beginning of project
+			Greatest potential to define direction of project
+			
+	Completing project constraints
+		*if any one factor changes, at least one other will change*
+		
+		Scope
+		Quality
+		Schedule
+		Budget
+		Resources
+		Risks
+		
+	Jerry Lineberg
+		"you can meet any requirement, as long as the Software doesn't have to work"
+		
+	Iron Triangle
+		Scope
+		Resources
+		Schedule
+		
+	Project Cost Management
+	
+		Main estimation technique
+			PVM (project means value or something like that)
+			
+TeamWork
