@@ -1,1 +1,0 @@
-awk '{total += $1} END {print total}' numbers.txt
