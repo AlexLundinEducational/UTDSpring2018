@@ -3,4 +3,4 @@
 #SE 3377.501 - CC++ in  UNIX
 #!/bin/bash
 #don't put a path on the directory-name
-tar -zcvf my.tar.gz sourcetar
+tar -zxvf my.tar.gz sourcetar
