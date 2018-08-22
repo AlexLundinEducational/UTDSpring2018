@@ -1,0 +1,20 @@
+Command line will be responsive to kill command ctrl+C.
+Created pid file successfully.The file dir55557746.txt was created.
+The file dir55557744446.txt was created.
+
+Interrupt signal SIGINT received.
+Gracefully exiting program.
+Pid file deleted.
+Pid file deleted.
+Log ended.
+Log file closed.
+Running as daemon...The file dir555577444436.txt was created.
+The file new6.txt was created.
+The file new7.txt was created.
+
+Interrupt signal SIGTERM received.
+Gracefully exiting program.
+Pid file deleted.
+Pid file deleted.
+Log ended.
+Log file closed.
